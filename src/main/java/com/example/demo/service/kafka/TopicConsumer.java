@@ -1,4 +1,4 @@
-package com.example.demo.model.kafka;
+package com.example.demo.service.kafka;
 
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

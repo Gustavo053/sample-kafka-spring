@@ -1,4 +1,4 @@
-package com.example.demo.model.kafka;
+package com.example.demo.service.kafka;
 
 import com.example.demo.model.Car;
 import lombok.RequiredArgsConstructor;
